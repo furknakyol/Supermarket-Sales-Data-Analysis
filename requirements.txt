@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+sqlalchemy
+jupyterlab
+scikit-learn
+plotly
+dash
+streamlit
+python-dotenv
+pytest
+black
+flake8
